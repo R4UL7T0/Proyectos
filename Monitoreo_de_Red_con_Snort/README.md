@@ -9,4 +9,27 @@ Confirmo con ipconfig desde una powershell:
 ```powershell
 ipconfig
 ```
+![Confirmacion_de_red](docs/images/Confirmacion_Red.png)
+
+Así el sistema host actúa como router virtual. Instalo snort aqui para monitorear todo el trafico entre las maquinas.
+
+Así el sistema host actúa como router virtual.
+
+Para ejecutar Snort abro una PowerShell.
+
+Dentro me voy a la carpeta de Snort:
+
+```powershell
+cd C:\Snort\bin>
+```
+
+Y ejecuto el siguiente comando para identificar mi id de red:
+
+```powershell
+C:\Snort\bin> .\snort.exe -W
+```
+
+En este caso la mía es:
+
+
 
