@@ -1,4 +1,4 @@
-La función de este proyecto es monitorear trafico de red entre maquinas con un IDS ( en este caso Snort ) y practicar con ello técnicas de evasión usando Nmap.
+La función de este proyecto es monitorear trafico de red entre maquinas con un IDS ( en este caso Snort ) para practicar técnicas de evasión usando Nmap.
 
 Lo primero es configurar la red en la que vamos a trabajar:
 
