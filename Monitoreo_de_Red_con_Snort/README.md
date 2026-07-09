@@ -31,5 +31,13 @@ C:\Snort\bin> .\snort.exe -W
 
 En este caso la mía es:
 
+![id_red](docs/images/id.png)
 
+Con esto ejecutamos el siguiente comando para correr Snort y dejarlo en escucha:
+
+![comando](docs/images/comando_run.png)
+
+Así se debería de ver:
+
+![modo_escuha](docs/images/running.png)
 
