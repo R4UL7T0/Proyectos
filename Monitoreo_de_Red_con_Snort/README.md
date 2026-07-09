@@ -41,3 +41,9 @@ Así se debería de ver:
 
 ![modo_escuha](docs/images/running.png)
 
+Ahora pasamos con el primer escaneo de mi maquina Atacante a la maquina victima:
+
+
+
+Snort funciona detectando así actividad maliciosa:
+
