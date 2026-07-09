@@ -1,6 +1,8 @@
-## Creación de Red
+## Objetivo
 
-El objetivo de este proyecto es desplegar un IDS (Intrusion Detection System) en una red interna y monitorear tráfico de red malicioso y practicar técnicas de evasión en entornos reales.
+Desplegar un IDS (Intrusion Detection System) en una red interna y monitorear tráfico de red malicioso para practicar técnicas de evasión en entornos reales.
+
+## Configuración de Red
 
 Lo primero es configurar la red en la que vamos a trabajar:
 
