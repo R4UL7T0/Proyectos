@@ -11,9 +11,7 @@ ipconfig
 ```
 ![Confirmacion_de_red](docs/images/Confirmacion_Red.png)
 
-Así el sistema host actúa como router virtual. Instalo snort aqui para monitorear todo el trafico entre las maquinas.
-
-Así el sistema host actúa como router virtual.
+Así el sistema host actúa como router virtual. Instalo snort aqui para monitorear todo el trafico entre las maquinas. Así el sistema host actúa como router virtual.
 
 Para ejecutar Snort abro una PowerShell.
 
@@ -41,9 +39,11 @@ Así se debería de ver:
 
 ![modo_escuha](docs/images/running.png)
 
-Ahora pasamos con el primer escaneo de mi maquina Atacante a la maquina victima:
+Ahora pasamos con el primer escaneo de mi maquina Atacante a la red:
 
-
+![comando](docs/images/scan1.png)
 
 Snort funciona detectando así actividad maliciosa:
+
+![respuesta](docs/images/res1.png)
 
