@@ -25,7 +25,7 @@ Voy a la carpeta de Snort:
 cd C:\Snort\bin>
 ```
 
-## Despliegue de IDS
+## Despliegue
 
 Y ejecuto el siguiente comando para identificar mi id de red:
 
