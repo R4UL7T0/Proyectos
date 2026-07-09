@@ -47,3 +47,4 @@ Snort funciona detectando así actividad maliciosa:
 
 ![respuesta](docs/images/res1.png)
 
+Dejando el entorno listo para practicar técnicas de evasión.
