@@ -1,6 +1,6 @@
 ## Creación de Red
 
-El objetivo de este proyecto es desplegar un IDS (Intrusion Detection System) para monitorear trafico de una red malicioso y practicar técnicas de evasión en entornos reales.
+El objetivo de este proyecto es desplegar un IDS (Intrusion Detection System) en una red interna y monitorear tráfico de red malicioso y practicar técnicas de evasión en entornos reales.
 
 Lo primero es configurar la red en la que vamos a trabajar:
 
@@ -17,9 +17,9 @@ Así el sistema host actúa como router virtual.
 
 ## Entorno para Snort
 
-Para ejecutar Snort abro una PowerShell.
+Desde una PowerShell:
 
-Dentro me voy a la carpeta de Snort:
+Voy a la carpeta de Snort:
 
 ```powershell
 cd C:\Snort\bin>
